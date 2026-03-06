@@ -1,0 +1,37 @@
+country,region,displacement_type,month,net_flow_forecast
+Ethiopia,Gambella,IDP,2026-04-01,1741
+Ethiopia,Gambella,IDP,2026-05-01,1905
+Ethiopia,Gambella,IDP,2026-06-01,2069
+Ethiopia,Gambella,IDP,2026-07-01,2233
+Ethiopia,Gambella,IDP,2026-08-01,2397
+Ethiopia,Gambella,IDP,2026-09-01,2561
+Ethiopia,Gambella,Refugee,2026-04-01,1995
+Ethiopia,Gambella,Refugee,2026-05-01,2100
+Ethiopia,Gambella,Refugee,2026-06-01,2204
+Ethiopia,Gambella,Refugee,2026-07-01,2309
+Ethiopia,Gambella,Refugee,2026-08-01,2414
+Ethiopia,Gambella,Refugee,2026-09-01,2518
+Kenya,Nairobi,IDP,2026-01-01,1027
+Kenya,Nairobi,IDP,2026-02-01,1202
+Kenya,Nairobi,IDP,2026-03-01,1377
+Kenya,Nairobi,IDP,2026-04-01,1552
+Kenya,Nairobi,IDP,2026-05-01,1727
+Kenya,Nairobi,IDP,2026-06-01,1902
+Somalia,Banadir,Refugee,2026-02-01,647
+Somalia,Banadir,Refugee,2026-03-01,752
+Somalia,Banadir,Refugee,2026-04-01,857
+Somalia,Banadir,Refugee,2026-05-01,962
+Somalia,Banadir,Refugee,2026-06-01,1067
+Somalia,Banadir,Refugee,2026-07-01,1172
+South Sudan,Jonglei,IDP,2026-04-01,4551
+South Sudan,Jonglei,IDP,2026-05-01,4974
+South Sudan,Jonglei,IDP,2026-06-01,5397
+South Sudan,Jonglei,IDP,2026-07-01,5820
+South Sudan,Jonglei,IDP,2026-08-01,6243
+South Sudan,Jonglei,IDP,2026-09-01,6666
+South Sudan,Upper Nile,IDP,2026-04-01,5072
+South Sudan,Upper Nile,IDP,2026-05-01,5526
+South Sudan,Upper Nile,IDP,2026-06-01,5979
+South Sudan,Upper Nile,IDP,2026-07-01,6432
+South Sudan,Upper Nile,IDP,2026-08-01,6886
+South Sudan,Upper Nile,IDP,2026-09-01,7339

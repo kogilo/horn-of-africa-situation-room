@@ -1,0 +1,9 @@
+location_id,country,admin1,admin2,region,latitude,longitude
+LOC001,Ethiopia,Gambella,N/A,Gambella,8.25,34.58
+LOC002,Sudan,Khartoum,N/A,Khartoum,15.50,32.56
+LOC003,Somalia,Banadir,Mogadishu,Banadir,2.04,45.34
+LOC004,Kenya,Nairobi,Nairobi,Nairobi,-1.29,36.82
+LOC005,South Sudan,Upper Nile,Malakal,Upper Nile,9.54,31.66
+LOC006,South Sudan,Jonglei,Bor,Jonglei,6.20,31.55
+LOC007,Ethiopia,Gambella,Pugnido Camp,Gambella,8.42,34.33
+LOC008,Ethiopia,Gambella,Nguenyyiel Camp,Gambella,8.33,34.41

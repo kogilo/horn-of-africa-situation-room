@@ -1,0 +1,7 @@
+event_id,event_date,location_id,event_type,severity,reported_fatalities,source,notes
+EVT1001,2026-02-25,LOC001,Armed Clash,4,7,Media,"Clashes reported near border area"
+EVT1002,2026-02-26,LOC003,Protest,2,0,NGO,"Demonstration with arrests reported"
+EVT1003,2026-02-27,LOC002,Explosion,5,12,Media,"Explosion in urban area"
+EVT1004,2026-02-20,LOC001,Abduction,3,0,Community,"Local reports of abduction"
+EVT1005,2026-02-24,LOC005,Inter-communal Violence,4,15,Media,"Fighting reported in Upper Nile"
+EVT1006,2026-02-22,LOC006,Armed Clash,5,22,Media,"Escalation in Jonglei region"
