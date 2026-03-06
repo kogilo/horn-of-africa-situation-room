@@ -1,0 +1,65 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# -------------------------
+# Environment variables
+# -------------------------
+.env
+.env.local
+.env.production
+
+# -------------------------
+# Data files (hide raw data)
+# -------------------------
+data/raw/*
+data/clean/*
+
+# But allow folder structure
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+
+# -------------------------
+# Outputs
+# -------------------------
+outputs/
+*.log
+*.tmp
+
+# -------------------------
+# Node / Next.js
+# -------------------------
+node_modules/
+.next/
+out/
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# IDE files
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Secrets
+# -------------------------
+credentials.json
+config/secrets.yaml
